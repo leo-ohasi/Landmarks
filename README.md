@@ -4,32 +4,32 @@
 
 ## 🌍 Explore Wonders with Landmarks
 
-### 📱 iPhone Screenshots
+### 📱 iPhone 
 <p align="center">
-  <img src="https://github.com/leo-ohasi/Landmarks/blob/main/ios1.png" width="180" hspace="10">
-  <img src="https://github.com/leo-ohasi/Landmarks/blob/main/ios2.png" width="180" hspace="10">
-  <img src="https://github.com/leo-ohasi/Landmarks/blob/main/ios3.png" width="180" hspace="10">
-  <img src="https://github.com/leo-ohasi/Landmarks/blob/main/ios4.png" width="180" hspace="10">
-  <img src="https://github.com/leo-ohasi/Landmarks/blob/main/ios5.png" width="180" hspace="10">
-  <img src="https://github.com/leo-ohasi/Landmarks/blob/main/ios6.png" width="180" hspace="10">
-  <img src="https://github.com/leo-ohasi/Landmarks/blob/main/ios7.png" width="180" hspace="10">
+  <img src="https://github.com/leo-ohasi/Landmarks/blob/main/Images/ios1.png" width="180" hspace="10">
+  <img src="https://github.com/leo-ohasi/Landmarks/blob/main/Images/ios2.png" width="180" hspace="10">
+  <img src="https://github.com/leo-ohasi/Landmarks/blob/main/Images/ios3.png" width="180" hspace="10">
+  <img src="https://github.com/leo-ohasi/Landmarks/blob/main/Images/ios4.png" width="180" hspace="10">
+  <img src="https://github.com/leo-ohasi/Landmarks/blob/main/Images/ios5.png" width="180" hspace="10">
+  <img src="https://github.com/leo-ohasi/Landmarks/blob/main/Images/ios6.png" width="180" hspace="10">
+  <img src="https://github.com/leo-ohasi/Landmarks/blob/main/Images/ios7.png" width="180" hspace="10">
 </p>
 
-### 📱 iPad Screenshots
+### 📱 iPad 
 <p align="center">
-  <img src="https://github.com/leo-ohasi/Landmarks/blob/main/ipad1.png" width="550" hspace="10">
-  <img src="https://github.com/leo-ohasi/Landmarks/blob/main/ipad2.png" width="550" hspace="10">
+  <img src="https://github.com/leo-ohasi/Landmarks/blob/main/Images/ipad1.png" width="550" hspace="10">
+  <img src="https://github.com/leo-ohasi/Landmarks/blob/main/Images/ipad2.png" width="550" hspace="10">
 </p>
 
-### ⌚ Apple Watch Screenshots
+### ⌚ Apple Watch 
 <p align="center">
-  <img src="https://github.com/leo-ohasi/Landmarks/blob/main/watch1.png" width="200" hspace="10">
-  <img src="https://github.com/leo-ohasi/Landmarks/blob/main/watch2.png" width="200" hspace="10">
+  <img src="https://github.com/leo-ohasi/Landmarks/blob/main/Images/watch1.png" width="200" hspace="10">
+  <img src="https://github.com/leo-ohasi/Landmarks/blob/main/Images/watch2.png" width="200" hspace="10">
 </p>
 
-### 💻 MacOS Screenshots
+### 💻 MacOS 
 <p align="center">
-  <img src="https://github.com/leo-ohasi/Landmarks/blob/main/mac1.png" width="750" hspace="10">
+  <img src="https://github.com/leo-ohasi/Landmarks/blob/main/Images/mac1.png" width="750" hspace="10">
 </p>
 
 
