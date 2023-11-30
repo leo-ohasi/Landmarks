@@ -1,6 +1,6 @@
 # Landmarks
 
-**Landmarks** is a SwiftUI-based tutorial app by Apple, designed to transform your journey of exploring global wonders into an engaging, shared experience.
+**Landmarks** is a SwiftUI-based app, designed to transform your journey of exploring global wonders into an engaging, shared experience.
 
 ## 🌍 Explore Wonders with Landmarks
 
